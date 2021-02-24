@@ -1,17 +1,17 @@
-#Viktor Berezovskyi (25 years old)
+# Viktor Berezovskyi (25 years old)
 React developer
 ___
-##Location: Moscow, Russia
-##Contacts: 
+## Location: Moscow, Russia
+## Contacts: 
 - [Telegram](https://t.me/berezovskiyviktor)
 - colorfulmdx2@gmial.com
 - +380956804964
 
-##Education
+## Education
 __IT - INKUBATOR__ (Minsk) 03.2020 - 09.2020
 - React/Redux development
 
-##Experience
+## Experience
 __Instacoin Malta LTD__ 09.2020 - until now
 
 Responsibilities
