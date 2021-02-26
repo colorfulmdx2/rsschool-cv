@@ -15,7 +15,7 @@ body {
     box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
 }
 
-.cv { display: flex; }
+.cv {display: flex;}
 
 .left-side {
     width: 30%;
